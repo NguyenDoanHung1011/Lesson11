@@ -1,0 +1,7 @@
+
+Sinh vien 1:
+Ho Ten: nguyen doan hungTinh thanh: ha noiNam sinh: 2005
+Sinh vien 2:
+Ho Ten: nguyen doan tuanTinh thanh: ha noiNam sinh: 2003
+Sinh vien 3:
+Ho Ten: nguyen thi maiTinh thanh: nghe anNam sinh: 2005
